@@ -1,1 +1,1 @@
-# Autentificação Jogos Retrô 🕹️
+# Autenticação Jogos Retrô 🕹️
